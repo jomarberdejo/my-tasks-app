@@ -1,0 +1,11 @@
+
+*{
+    font-family: "Helvetica", Sans-Serif;
+  }
+  .balance-text{
+    text-wrap: balance;
+  }
+  
+  ::-webkit-scrollbar{
+    display: none;
+  }
